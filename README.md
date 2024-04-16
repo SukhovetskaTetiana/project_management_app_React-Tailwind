@@ -14,7 +14,7 @@ The provided code is for a React application that appears to be a project manage
 
 - _Input Validation_: The application validates user input for both project creation and task addition. It prevents users from saving projects or tasks with missing information.
 
-Technical Implementation:
+**Technical Implementation:**
 
 The code utilizes React for the user interface and component management. It also leverages several React features like useState for managing application state, and useRef for creating references to DOM elements.
 
